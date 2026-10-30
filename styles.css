@@ -8,8 +8,9 @@
     Lila          #B98CFF
   Ejemplo: --acento: #FF4FA3;
 */
+
 :root {
-  --acento: #FF9F1C;
+  --acento: #FF66CC;
 }
 
 /* A partir de aquí no necesitas cambiar nada, pero puedes explorar */
